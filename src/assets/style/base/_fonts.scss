@@ -1,0 +1,25 @@
+// -----------------------------------------------------------------------------
+// This file contains all @font-face declarations, if any.
+// -----------------------------------------------------------------------------
+
+@font-face {
+    font-family: 'raleway-grid';
+    src: url('/src/assets/fonts/RalewayRegular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'raleway-grid';
+    src: url('/src/assets/fonts/RalewayBold.woff') format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'raleway-grid';
+    src: url('/src/assets/fonts/RalewayExtraBold.woff') format('woff');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'intro-grid';
+    src: url('/src/assets/fonts/IntroRegular.woff') format('woff');
+}

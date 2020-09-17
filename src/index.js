@@ -1,1 +1,5 @@
-import './styles/general.scss';
+import './assets/style/style.scss';
+
+jQuery(document).ready(function($) {
+  
+});

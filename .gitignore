@@ -1,2 +1,8 @@
-node_modules/
-dist/
+# Node
+node_modules
+
+# Default
+.jshintrc
+
+# Dist
+dist
